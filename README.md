@@ -1,9 +1,10 @@
-Name: Athul Krishna
-Company: CODTECH IT SOLUTIONS
-ID: CT08DS7176
-Domain: Data Analytics
-Duration: Aug to Sep 2024
-Mentor: SRAVANI GOUNI
+- Name: Athul Krishna
+- Company: CODTECH IT SOLUTIONS
+- ID: CT08DS7176
+- Domain: Data Analytics
+- Duration: Aug to Sep 2024
+- Mentor: SANTHOSH
+
 
 Overview of the Project
 ------------------------
